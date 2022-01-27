@@ -1,0 +1,20 @@
+[[boost]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e081fa7b612499612045ec606d40a772b39699b"
+libc = "glibc"
+os = "linux"
+
+    [[boost.download]]
+    sha256 = "55d3fb3a9bff3b2b2d87dbaa6f5588875c0347e9bc61b9700f3c102b2491731c"
+    url = "https://github.com/jeremiahpslewis/boost_jll.jl/releases/download/boost-v1.77.0+0/boost.v1.77.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[boost]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b71e431d845365fcdeb2d6bd6924b9b442799e00"
+libc = "glibc"
+os = "linux"
+
+    [[boost.download]]
+    sha256 = "ad97f71e0a6049c544633bd38ac0655c9053e05394f3619ae495f0d6a23e3d97"
+    url = "https://github.com/jeremiahpslewis/boost_jll.jl/releases/download/boost-v1.77.0+0/boost.v1.77.0.x86_64-linux-gnu-cxx11.tar.gz"
